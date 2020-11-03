@@ -4,7 +4,7 @@
   "description": "Личный проект «Landie»",
   "devDependencies": {
     "autoprefixer": "9.8.4",
-    "browser-sync": "^2.26.13",
+    "browser-sync": "2.26.13",
     "gulp": "4.0.2",
     "gulp-plumber": "1.2.1",
     "gulp-postcss": "8.0.0",
